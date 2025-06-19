@@ -1,2 +1,1 @@
-# snapshot-squid
-snapshot-squid
+## GAME
